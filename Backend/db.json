@@ -1,0 +1,12 @@
+{
+    
+    "users": [
+        {
+            "id":1,
+            "name":"Krishan",
+            "age":18,
+            "image":"https://imgs.search.brave.com/85LCN3SS8WKhRbb7GafbyoBfW3JGB07EbC_ZpwZTQjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDE4Njcz/MDkuanBn"
+        }
+    ]
+  }
+  
