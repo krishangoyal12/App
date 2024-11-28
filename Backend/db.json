@@ -6,7 +6,16 @@
             "name":"Krishan",
             "age":18,
             "image":"https://imgs.search.brave.com/85LCN3SS8WKhRbb7GafbyoBfW3JGB07EbC_ZpwZTQjE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDE4Njcz/MDkuanBn"
+        },
+
+        {
+            "id":2,
+            "name":"Mannat",
+            "age":18,
+            "image":"https://imgs.search.brave.com/IUJgLSdJk7gGkiXhsjoevQ4vNnhfh-UgE6s-zuLF3xE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA3/MTEwNDczNC9waG90/by93b21hbi1zaWxo/b3VldHRlLWF0LXN1/bnNldC1vbi1oaWxs/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz0zUHJDSGNsdFM0/VHR4VVhIeFQ5ckxY/ckcxNTRMcGY3MEJO/RFFma3lzUm5RPQ"
         }
+
+        
     ]
   }
   
